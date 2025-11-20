@@ -1,0 +1,3 @@
+/home/sst/Documents/alvium_dev/build/CMakeFiles/alvium.dir
+/home/sst/Documents/alvium_dev/build/CMakeFiles/edit_cache.dir
+/home/sst/Documents/alvium_dev/build/CMakeFiles/rebuild_cache.dir
